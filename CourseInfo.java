@@ -16,5 +16,7 @@ public class CourseInfo {
 		System.out.println("Semester: Spring 2026");
 		System.out.println("Credits: 4");
 		System.out.println("Classroom: Copley 204");
+		System.out.println("Class Time: MW 1:10-2:40; TR 1:20-2:50");
+		System.out.println("Number of Students: 25");
 	}
 }
