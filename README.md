@@ -12,4 +12,4 @@ The main method prints:
 * classroom
 
 
-![Panda Image] (/images/panda.jpg)
+![Panda Image] (home/brownd/labFolder/cs213/Lab10/CSCI213-Lab10/images/panda.jpg)
